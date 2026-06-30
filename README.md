@@ -9,7 +9,7 @@ Building AI Employees & Intelligent Automation Systems for Modern Businesses.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linked-in.com/in/kianova-ai)
-[![Email!](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hello.kianova@gmail.com)
+[![Emai l!](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hello.kianova@gmail.com)
 
 </div>
 
