@@ -1,51 +1,112 @@
-# Hi, I'm Kian 👋
+<div align="center">
 
-Founder of **KIANOVA**.
+# KIANOVA
 
-We help businesses **buy back their time** by building intelligent AI employees and automation systems.
+### Buy Back Your Time.
+
+Building AI Employees & Intelligent Automation Systems for Modern Businesses.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kian-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kianova-ai)
+[![Email](https://img.shields.io/badge/Email-Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:hello.kianova@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I'm Building
+# 👋 Hi, I'm Kian
+
+Founder of **KIANOVA**.
+
+I help businesses automate repetitive work using AI, allowing teams to focus on what matters most.
+
+My mission is simple:
+
+> **Buy Back Your Time.**
+
+---
+
+# 🚀 What We Build
 
 - 🤖 AI Employees
 - ⚙️ Workflow Automation
 - 🧠 AI Agents
 - 📈 Lead Generation Systems
-- 💼 Business Process Automation
-- 💬 Custom ChatGPT Solutions
+- 💼 CRM Automation
+- 📧 Email Automation
+- 💬 AI Customer Support
+- 🧾 Internal Knowledge Assistants
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,git" />
-</p>
+### AI
 
-- OpenAI (ChatGPT)
+- ChatGPT
 - Claude
 - Gemini
+
+### Automation
+
 - n8n
 - Make
-- Airtable
+
+### Productivity
+
 - Notion
+- Airtable
+
+### Development
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 🎯 Mission
+# 📂 Featured Projects
 
-> **Buy Back Your Time.**
+Coming Soon...
 
-Building AI systems that help businesses work smarter, faster, and more efficiently.
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/kianova-ai
-- 📧 Email: hello.kianova@gmail.com
+- 🚀 AI Employee
+- 🚀 CRM Automation
+- 🚀 AI Sales Agent
+- 🚀 Meeting Assistant
+- 🚀 Lead Generation
+- 🚀 Content Automation
 
 ---
 
-⭐ *Currently building KIANOVA from the ground up.*
+# 🌍 Vision
+
+KIANOVA is building practical AI systems that help businesses:
+
+- Save Time
+- Reduce Costs
+- Increase Productivity
+- Automate Repetitive Tasks
+- Scale Smarter
+
+---
+
+# 📫 Connect
+
+💼 LinkedIn
+
+https://linkedin.com/in/kianova-ai
+
+📧 Email
+
+hello.kianova@gmail.com
+
+---
+
+<div align="center">
+
+### Building the Future of AI Automation.
+
+⭐ Thanks for visiting my profile.
+
+</div>
