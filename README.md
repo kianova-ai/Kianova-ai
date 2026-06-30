@@ -1,30 +1,33 @@
 # Hi, I'm Kian 👋
 
-Founder of KIANOVA
+Founder of **KIANOVA**.
 
-We help businesses buy back their time by building AI-powered automation systems.
+We help businesses **buy back their time** by building intelligent AI employees and automation systems.
 
 ---
 
 ## 🚀 What I'm Building
 
-- AI Employees
-- Workflow Automation
-- AI Agents
-- Lead Generation Systems
-- Business Automation
-- ChatGPT Solutions
+- 🤖 AI Employees
+- ⚙️ Workflow Automation
+- 🧠 AI Agents
+- 📈 Lead Generation Systems
+- 💼 Business Process Automation
+- 💬 Custom ChatGPT Solutions
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- ChatGPT
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,git" />
+</p>
+
+- OpenAI (ChatGPT)
 - Claude
 - Gemini
 - n8n
 - Make
-- GitHub
 - Airtable
 - Notion
 
@@ -32,15 +35,17 @@ We help businesses buy back their time by building AI-powered automation systems
 
 ## 🎯 Mission
 
-Buy Back Your Time.
+> **Buy Back Your Time.**
+
+Building AI systems that help businesses work smarter, faster, and more efficiently.
 
 ---
 
-## 🌍 Let's Connect
+## 📫 Let's Connect
 
-LinkedIn:
-www.linkedin.com/in/kianova-ai
+- 💼 LinkedIn: https://linkedin.com/in/kianova-ai
+- 📧 Email: hello.kianova@gmail.com
 
+---
 
-Email:
-hello.kianova@gmail.com
+⭐ *Currently building KIANOVA from the ground up.*
