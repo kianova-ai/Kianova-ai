@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Kian 👋
 
-<!--
-**kianova-ai/Kianova-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of KIANOVA
 
-Here are some ideas to get you started:
+We help businesses buy back their time by building AI-powered automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+- AI Employees
+- Workflow Automation
+- AI Agents
+- Lead Generation Systems
+- Business Automation
+- ChatGPT Solutions
+
+---
+
+## 🛠 Tech Stack
+
+- ChatGPT
+- Claude
+- Gemini
+- n8n
+- Make
+- GitHub
+- Airtable
+- Notion
+
+---
+
+## 🎯 Mission
+
+Buy Back Your Time.
+
+---
+
+## 🌍 Let's Connect
+
+LinkedIn:
+www.linkedin.com/in/kianova-ai
+
+
+Email:
+hello.kianova@gmail.com
